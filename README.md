@@ -1,6 +1,6 @@
 # README - Fuel Chase
 
-**Esame di Ambienti Virtuali a.a. 2024/2025 — Marco Petrucci [598657]**
+**Esame di Ambienti Virtuali a.a. 2024/2025**
 
 ## Progettazione videogioco
 
