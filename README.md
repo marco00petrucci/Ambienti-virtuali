@@ -9,7 +9,7 @@ Il progetto è stato realizzato per il corso di Ambienti virtuali tenuto dal pro
 Per poterlo visionare, occorre installare [Unity Hub](https://unity.com/download) e aprire il progetto tramite l'apposita funzione "Apri progetto esistente", selezionando la cartella radice del progetto.
 
 <video controls width="720">
-<source src="gameplay.mp4" type="video/mp4">
+<source src="Gameplay.mp4" type="video/mp4">
  Il tuo browser non supporta il tag video. Puoi scaricare il file qui: [Scarica gameplay.mp4](gameplay.mp4)
 </video>
 
